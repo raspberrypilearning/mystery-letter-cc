@@ -18,7 +18,6 @@ If you have a trinket account, you can upload images of your own as you did in t
 
 Find fonts that you like on <a href="http://jumpto.cc/web-fonts" target="_blank">jumpto.cc/web-fonts</a> and copy their `<link>` and CSS code into your trinket to use them. 
 
-
-
+Go to the next project on the HTML & CSS module pathway: 'Project Showcase'.
 
 --- /challenge ---
