@@ -21,3 +21,5 @@ Find fonts that you like on <a href="http://jumpto.cc/web-fonts" target="_blank"
 Go to the next project on the HTML & CSS module pathway: 'Project Showcase'.
 
 --- /challenge ---
+
+![progress bar](images/h1-5.png)
