@@ -16,7 +16,7 @@ hardware: ''
 software: html-css-javascript
 version: 3.1
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
 - title: Choose Your Message
 - title: Editing Your Message
